@@ -1,0 +1,71 @@
+Initialize engine version: 5.4.0b13 (90500643c620)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K4200 (ID=0x11b4)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Craig Barr\Desktop\Exercise_Files\VR_SampleGame\WorkshopVR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Craig Barr\Desktop\Exercise_Files\VR_SampleGame\WorkshopVR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Craig Barr\Desktop\Exercise_Files\VR_SampleGame\WorkshopVR_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Craig Barr\Desktop\Exercise_Files\VR_SampleGame\WorkshopVR_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Craig Barr\Desktop\Exercise_Files\VR_SampleGame\WorkshopVR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Craig Barr\Desktop\Exercise_Files\VR_SampleGame\WorkshopVR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Craig Barr\Desktop\Exercise_Files\VR_SampleGame\WorkshopVR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Craig Barr\Desktop\Exercise_Files\VR_SampleGame\WorkshopVR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Craig Barr\Desktop\Exercise_Files\VR_SampleGame\WorkshopVR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Craig Barr\Desktop\Exercise_Files\VR_SampleGame\WorkshopVR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.061 seconds
+Platform assembly: C:\Users\Craig Barr\Desktop\Exercise_Files\VR_SampleGame\WorkshopVR_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Craig Barr\Desktop\Exercise_Files\VR_SampleGame\WorkshopVR_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on OVRScreenFade
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.onSceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
+<RI> Initialized touch support.
+Compositor failed to initialize.Compositor failed to initialize.UnloadTime: 1.692522 ms
+Can not play a disabled audio source
+ 
+(Filename:  Line: 433)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 2a78 -> priority: 1 
+  Thread -> id: 27a0 -> priority: 1 
+  Thread -> id: 2714 -> priority: 1 
+  Thread -> id: 8f8 -> priority: 1 
+  Thread -> id: 2f34 -> priority: 1 
+  Thread -> id: 3070 -> priority: 1 
+  Thread -> id: 31dc -> priority: 1 
+  Thread -> id: 2748 -> priority: 1 
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+ 
+(Filename:  Line: 1260)
+
+Joystick connected ("Controller (XBOX 360 For Windows)").
+ 
+(Filename:  Line: 1353)
+
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+ 
+(Filename:  Line: 1260)
+
+Joystick reconnected ("Controller (XBOX 360 For Windows)").
+ 
+(Filename:  Line: 1325)
+
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+ 
+(Filename:  Line: 1260)
+
